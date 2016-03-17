@@ -23,7 +23,7 @@ implementation
 
 {$R *.dfm}
 
-USES Unit2;
+USES Proom;
 
 procedure TForm1.FormShow(Sender: TObject);
 begin
