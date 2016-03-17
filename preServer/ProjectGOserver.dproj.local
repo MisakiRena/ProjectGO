@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-  <Transactions>
-    <Transaction>2016/03/17 08:53:48.621,=D:\Cdata\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
-    <Transaction>2016/03/17 08:54:41.210,D:\Cdata\Documents\GitHub\ProjectGO\preServer\Unit3.pas=D:\Cdata\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
-    <Transaction>2016/03/17 08:54:41.210,D:\Cdata\Documents\GitHub\ProjectGO\preServer\Unit3.dfm=D:\Cdata\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
-    <Transaction>2016/03/17 08:54:51.650,D:\Cdata\Documents\GitHub\ProjectGO\preServer\ProjectGOserver.dproj=D:\Cdata\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-  </Transactions>
-</BorlandProject>
